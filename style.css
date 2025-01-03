@@ -33,3 +33,43 @@
     width: 150px;
 } */
 
+
+.div_button1{
+    display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        height:30px; 
+        margin: 0;
+        padding: 10px;
+
+    
+}
+.button_index1{
+    height: 30px; 
+    border-radius: 7px;
+     box-shadow: 2px 1px 3px; background-color: red;
+     width: 130px; 
+     display: flex;
+      justify-content: center;
+    align-items: center;
+    margin: 100px;
+    
+}
+.div_button2{
+ display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        height:30px; 
+        margin: 0;
+        padding: 10px;
+}
+.button_index2{
+      height: 30px; 
+    border-radius: 7px;
+     box-shadow: 2px 1px 3px; background-color: rgb(6, 175, 31);
+     width: 130px; 
+     display: flex;
+      justify-content: center;
+       align-items: center;
+        margin: 100px;
+}
