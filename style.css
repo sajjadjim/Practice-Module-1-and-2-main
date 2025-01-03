@@ -28,23 +28,17 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
-/* .blog_pic{
-    height: 100px;
-    width: 150px;
-} */
-
-
-.div_button1{
+ .div_button{
     display: flex; 
         justify-content: center; 
         align-items: center; 
         height:30px; 
-        margin: 0;
-        padding: 10px;
+        margin: 10;
+        padding: 40px;
 
     
 }
-.button_index1{
+.button_index{
     height: 30px; 
     border-radius: 7px;
      box-shadow: 2px 1px 3px; background-color: red;
@@ -52,24 +46,7 @@
      display: flex;
       justify-content: center;
     align-items: center;
-    margin: 100px;
+    margin: 80px;
+    cursor: pointer;
     
-}
-.div_button2{
- display: flex; 
-        justify-content: center; 
-        align-items: center; 
-        height:30px; 
-        margin: 0;
-        padding: 10px;
-}
-.button_index2{
-      height: 30px; 
-    border-radius: 7px;
-     box-shadow: 2px 1px 3px; background-color: rgb(6, 175, 31);
-     width: 130px; 
-     display: flex;
-      justify-content: center;
-       align-items: center;
-        margin: 100px;
-}
+} 
